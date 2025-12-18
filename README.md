@@ -72,10 +72,10 @@ GuiaDeEjercicios/
 3. Clona el repositorio:
    ```
    bash
-   git clone https://github.com/KarinaMendez17/branch_practice
+   git clone https://github.com/KarinaMendez17/bp_examen
 
 
 
-## Colaboradores 💾
+## Autor 💾
 
 Dulce Karina Méndez Domínguez.
